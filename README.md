@@ -1,15 +1,19 @@
-<h1 align="center">Welcome, I'm Kian</h1>
-<h3 align="center">An experienced Unreal Engine developer</h3>
+<h1 align="center">Welcome To My Github</h1>
+<h3 align="center">I'm an experienced Unreal Engine developer, deep into a years long project...</h3>
 
 - I'm currently working on [Crux](https://github.com/CdrCheese/UntitledClimbingGame), a Stylised VR Platformer
+  - Soon to be Steam
 
 - I've formed a games studio [Thought Circuit Studios](https://github.com/Thought-Circuit-Studios) with [Lunchy](https://github.com/LtLunch)
 
+- We've documented our progress on Youtube check it out, if you're curious...
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/Thought-Circuit-Studios" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/267949217?s=200&amp;v=4" alt="Thought Circuit Studios" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/@LunchyBags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lunchybags" height="30" width="40" /></a>
   <a href="https://github.com/CdrCheese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CdrCheese" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/kian-duncan-946b0922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kian-duncan-946b0922b" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@LunchyBags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lunchybags" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
